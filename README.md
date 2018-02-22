@@ -9,7 +9,3 @@ https://ibb.co/ddvVtH
 https://ibb.co/gzKqtH
 https://ibb.co/jxYGYH
 https://ibb.co/hRpenc
-
-![My image](arjunneervannan.github.com/repository/img/image.jpg)
-
-![alt tag](https://ibb.co/hRpenc "Description goes here")
