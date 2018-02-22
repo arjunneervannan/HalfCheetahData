@@ -10,4 +10,6 @@ https://ibb.co/gzKqtH
 https://ibb.co/jxYGYH
 https://ibb.co/hRpenc
 
-![My image](username.github.com/repository/img/image.jpg)
+![My image](arjunneervannan.github.com/repository/img/image.jpg)
+
+![alt tag](https://ibb.co/hRpenc "Description goes here")
